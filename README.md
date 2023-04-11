@@ -34,10 +34,10 @@ API is hosted at [http://udagramapi-env.eba-6x2icvnm.us-east-1.elasticbeanstalk.
 
 ### Screenshots
 
-![circleci](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/screenshots/circleci.png?raw=true)
-![circleci_env](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/screenshots/circleci_env.png?raw=true)
-![EB_health](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/screenshots/EB_health.png?raw=true)
-![S3_buckets](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/screenshots/S3_buckets.png?raw=true)
+![circleci](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/documentation/screenshots/circleci.png?raw=true)
+![circleci_env](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/documentation/screenshots/circleci_env.png?raw=true)
+![EB_health](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/documentation/screenshots/EB_health.png?raw=true)
+![S3_buckets](https://github.com/shuaiking23/nd0067-c4-deployment-process-project-starter/blob/master/documentation/screenshots/S3_buckets.png?raw=true)
 
 
 ## Built With
