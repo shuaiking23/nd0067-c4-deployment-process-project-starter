@@ -7,8 +7,6 @@
 
 - AWS CLI v2
 
-- CircleCI for piping
-
 - A RDS database running Postgres.
 
 - A S3 bucket for hosting uploaded pictures.
